@@ -1,6 +1,6 @@
 "use strict";
 
-var isValid = function (value) {
+exports.isValid = function (value) {
     var validChars = 'trwagmyfpdxbnjzsqvhlcket';
     var dniRexp = /^[0-9]{8}[trwagmyfpdxbnjzsqvhlcket]{1}$/i;
     var nieRexp = /^[XY]{1}[0-9]{7}[trwagmyfpdxbnjzsqvhlcket]{1}$/i;
@@ -19,5 +19,4 @@ var isValid = function (value) {
 }
 
 
-module.exports = isValid
 
