@@ -19,7 +19,5 @@ var isValid = function (value) {
 }
 
 
-module.exports = {
-    isValid
-}
+module.exports = isValid
 
