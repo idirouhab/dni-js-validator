@@ -1,0 +1,32 @@
+{
+  "name": "dni-js-validator",
+  "version": "1.0.0",
+  "description": "Spanish DNI/NIE validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idirouhab/dni-js-validator.git"
+  },
+  "keywords": [
+    "dni",
+    "spanish",
+    "validator"
+  ],
+  "author": "Idir Ouhab Meskine <ouhab.idir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idirouhab/dni-js-validator/issues"
+  },
+  "homepage": "https://github.com/idirouhab/dni-js-validator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  }
+}
