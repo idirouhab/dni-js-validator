@@ -18,5 +18,3 @@ exports.isValid = function (value) {
     return validChars.charAt(charIndex) === letter;
 }
 
-
-
