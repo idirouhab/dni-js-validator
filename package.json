@@ -1,6 +1,6 @@
 {
   "name": "dni-js-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Spanish DNI/NIE validator",
   "main": "index.js",
   "scripts": {
