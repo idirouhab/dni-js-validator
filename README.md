@@ -19,3 +19,4 @@ var dni = require("dni-js-validator")
 
 dni.isValid('12345678Z') // => 'true'
 ```
+
