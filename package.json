@@ -23,7 +23,7 @@
   "homepage": "https://github.com/idirouhab/dni-js-validator#readme",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^22.4.3"
+    "jest": "^26.0.1"
   },
   "jest": {
     "coverageDirectory": "./coverage/",
